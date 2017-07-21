@@ -25,7 +25,7 @@ SECRET_KEY = '=riv-61*1&h7_@*!r7k#hm898g0wx-jpx)ojmgy+-*dr)6i&dh'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<your_username>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'batoolk.pythonanywhere.com']
 
 
 # Application definition
